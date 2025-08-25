@@ -407,6 +407,7 @@ There is no coding or mathematics in these tests.
 There isn’t much one can practice for them, and resources are relatively
 sparse.
 
+
 Note that these tests (and SJTs) can discriminate negatively against
 some candidates. If you’re running into a situation where you
 consistently do well in coding/mathematical examinations but very poorly
